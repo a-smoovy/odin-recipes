@@ -4,6 +4,10 @@ h1, a{
     color: cadetblue;
     background-color: antiquewhite;
 }
-img{
-    align: center;
+.anchor-container{
+    display: flex;
+}
+
+.recipe-anchor{
+    flex: 1;
 }
